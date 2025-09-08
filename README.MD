@@ -10,6 +10,14 @@ Diese Masterarbeit widmet sich der Konzeption und Entwicklung eines asymmetrisch
 
 📄 [Präsentation ansehen](./präsentation.pdf)
 
+## Vorangegangene Arbeit
+
+Wie auch bei meiner Bachelorarbeit, gab es zu dieser Arbeit ein vorangegangenes Projekt aus einer Pflichtveranstaltung aus dem Studium. Bei dieser Arbeit ist es das Projekt aus dem Modul Interaktionsdesign aus dem Wintersemester 2023/ 2024. Der entstandene Prototyp enthielt bereits das zugrundeliegende Konzept, wenn auch auf einer sehr minimierten Ebene. Das folgende Video zeigt den erstellten Prototyp:
+
+<a href="https://youtu.be/MnZrvbBBkHQ" target="_blank" rel="noopener noreferrer">
+  <img src="./content\old_thumbnail.png" alt="Gameplay erster Prototyp" />
+</a>
+
 ## Hintergründe
 
 Während der COVID-19-Pandemie führten Maßnahmen wie Lockdowns und soziale Distanzierung zu massiver psychischer Belastung, insbesondere durch gesteigerte Einsamkeit und eingeschränkte soziale Interaktionen. Studien zeigen, dass Online-Gaming als Bewältigungsstrategie diente und dabei helfen konnte, Stress, Angst, Depressionen und Einsamkeit zu reduzieren. Insbesondere spielerische soziale Interaktionen dienten dabei als Stütze (vgl. Lewinson et al. 2023). So ergab eine systematische Übersichtarbeit, dass Online-Gaming jungen Erwachsenen weltweit als wichtiger Faktor zur sozialen Vernetzung diente, gleichzeitig aber auch Beziehungen und Empathie bei intensiver Nutzung beeinträchtigen kann (vgl. Park et al. 2025).
